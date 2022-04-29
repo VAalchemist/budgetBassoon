@@ -1,0 +1,20 @@
+{
+  "name": "budgetbassoon",
+  "version": "1.0.0",
+  "description": "![](https://img.shields.io/badge/PWA-purple.svg) ![](https://img.shields.io/badge/Javascript-yellow.svg) ![](https://img.shields.io/badge/Express-red.svg) ![](https://img.shields.io/badge/Node.js-green.svg) ![](https://img.shields.io/badge/MongoDB-blue.svg) ![](https://img.shields.io/badge/Webpack-orange.svg)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VAalchemist/budgetBassoon.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VAalchemist/budgetBassoon/issues"
+  },
+  "homepage": "https://github.com/VAalchemist/budgetBassoon#readme"
+}
