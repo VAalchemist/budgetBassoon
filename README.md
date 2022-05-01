@@ -16,7 +16,7 @@
 
 
 # Description
- An application that allows for offline access and functionality. The user will be able to add expenses and deposits to their budget with or without a connection. Check it out [here!](https://vaalchemist.github.io/budgetBassoon/).
+ An application that allows for offline access and functionality. The user will be able to add expenses and deposits to their budget with or without a connection. Check it out [here!](https://vaalchemist.github.io/offline-budget-tracker/).
 
 
 # Installation
