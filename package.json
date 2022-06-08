@@ -1,20 +1,27 @@
 {
-  "name": "budgetbassoon",
+  "name": "budget-app",
   "version": "1.0.0",
-  "description": "![](https://img.shields.io/badge/PWA-purple.svg) ![](https://img.shields.io/badge/Javascript-yellow.svg) ![](https://img.shields.io/badge/Express-red.svg) ![](https://img.shields.io/badge/Node.js-green.svg) ![](https://img.shields.io/badge/MongoDB-blue.svg) ![](https://img.shields.io/badge/Webpack-orange.svg)",
-  "main": "index.js",
+  "description": "",
+  "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+    "lite-server": "lite-server"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/VAalchemist/budgetBassoon.git"
+    "url": "git+https://github.com/VAalchemist/offline-budget-tracker.git"
   },
-  "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/VAalchemist/budgetBassoon/issues"
+    "url": "https://github.coms/VAalchemist/offline-budget-tracker/isues"
   },
-  "homepage": "https://github.com/VAalchemist/budgetBassoon#readme"
+  "homepage": "https://github.com/VAalchemist/offline-budget-tracker#readme",
+  "dependencies": {
+    "compression": "^1.7.4",
+    "express": "^4.17.1",
+    "mongoose": "^5.5.15",
+    "morgan": "^1.9.1"
+  }
 }
